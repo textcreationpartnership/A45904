@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inquest after blood, being a relation of the several inquisitions of all that have died by any violent death in the city of London, and borough of Sovthwark commencing from Jan. 1, 1669, to the conclusion of the last sessions holden at the Old Baily, Feb. 21, and the assizes for Surrey, March 1, with some remarkable observations : also, a brief account of those that were there found guilty, with mention of their crimes and punishments : published for the satisfaction fo some, and to prevent the mistakes of others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45904</idno>
+            <idno type="STC">Wing I209B</idno>
+            <idno type="STC">ESTC R15997</idno>
+            <idno type="EEBO-CITATION">11849772</idno>
+            <idno type="OCLC">ocm 11849772</idno>
+            <idno type="VID">49919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Inquest after blood, being a relation of the several inquisitions of all that have died by any violent death in the city of London, and borough of Sovthwark commencing from Jan. 1, 1669, to the conclusion of the last sessions holden at the Old Baily, Feb. 21, and the assizes for Surrey, March 1, with some remarkable observations : also, a brief account of those that were there found guilty, with mention of their crimes and punishments : published for the satisfaction fo some, and to prevent the mistakes of others.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Criminal justice, Administration of --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49919:1"/>
+            <!-- PDF PAGE 35 -->
+            <p>Inquest after Blood.</p>
+            <p>BEING A RELATION Of the ſeveral INQUISITIONS OF ALL That have Died by any violent Death IN THE City of <hi>LONDON,</hi> AND Borough of <hi>SO<g ref="char:V">Ʋ</g>THWARK.</hi>
+            </p>
+            <p>Commencing from <hi>Jan.</hi> 1. 1669, to the Concluſion of the laſt Seſſions holden at the <hi>Old Baily, Feb.</hi> 21. And the Aſſizes for <hi>Surrey, March</hi> 1.</p>
+            <p>
+               <hi>With ſome remarkable Obſervations.</hi>
+            </p>
+            <p>Alſo a brief account of thoſe that were there found Guilty, with mention of their <hi>Crimes and Puniſhments.</hi>
+            </p>
+            <p>Publiſhed for the Satisfaction of ſome, and to prevent the Miſtakes of others.</p>
+            <p>
+               <hi>London,</hi> Printed, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="inquisitions_post_mortem">
+            <pb facs="tcp:49919:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb n="3" facs="tcp:49919:2"/>
+            <!-- PDF PAGE 36 -->
+            <head>A <hi>Relation</hi> of the ſeveral Inquiſi<g ref="char:EOLhyphen"/>tions in the City of <hi>London</hi> and Borough of <hi>Southwark,</hi> commencing from <hi>Jan. 1. 1670.</hi> To the concluſion of the laſt Seſſi<g ref="char:EOLhyphen"/>ons, holden at the <hi>Old Bailey, Febr. 21.</hi> And the Aſſizes for <hi>Surrey, March 1.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt Inquiſition taken this year, began with the year <hi>(viz.) Ian.</hi> 1. which was up<g ref="char:EOLhyphen"/>on view of the Body of <hi>Richard Sandford,</hi> Servant and Appren<g ref="char:EOLhyphen"/>tice to <hi>Randal Hawley,</hi> late of <hi>Stepney,</hi> in the County of <hi>Middleſex,</hi> Bricklayer, who was killed by his ſaid Maſter <hi>Randal Hawly,</hi> after the manner following. This <hi>Richard
+<pb n="4" facs="tcp:49919:3"/>
+                  <!-- PDF PAGE 37 -->Sanford</hi> was a ſickly Lad, and on the 25th day of <hi>December</hi> laſt, going with his Maſter, in <hi>Little Britain,</hi> he took an occaſion to quarrel with his Servant; even for no juſt offence given, as ever did appear, and vio<g ref="char:EOLhyphen"/>lently thruſt this weak Lad in the Channel, ſtriking him on the hinder part of his Head and Shoulders with a Broom-ſtick, which for that purpoſe, he had ſoon before pro<g ref="char:EOLhyphen"/>cured. <hi>Furor arma Miniſtrat.</hi> The Lad re<g ref="char:EOLhyphen"/>turned ill to his Brothers houſe, and taking his Bed, died of the blow <hi>Decemb.</hi> 31. fol<g ref="char:EOLhyphen"/>lowing in the Pariſh of S. <hi>Buttolph Alderſgate.</hi> It ſeemed at firſt doubtful to the Jury, whe<g ref="char:EOLhyphen"/>ther the blow might be mortal, or no; but when as the Coroner had imployed an able Chyrurgion to take off the Cranium, there did appear the infallible marks of his mortal ſtroaks: The Jurors then gave in a Verdict of Murder.</p>
+            <p>
+               <hi>Hawly</hi> upon the firſt tidings of his ſervants death, deſerts his habitation, and is not yet heard of, fearing to put him<g ref="char:EOLhyphen"/>ſelf upon tryal. Not many days, before this, <hi>Hawly</hi> and his ſervant going over
+<pb n="5" facs="tcp:49919:3"/>
+               <!-- PDF PAGE 37 -->
+               <hi>Stepney-Fields,</hi> in the extremity of the late Froſt and Cold, he ſtripped this young man his ſervant, bound him neck and heels together, and moſt barbarouſly beat him with a Ropes end; which fact he after<g ref="char:EOLhyphen"/>ward confeſſed to ſome, that had reaſon to examine him upon the Lads complaining thereof.</p>
+            <p>
+               <label>Jan. 12.</label> Inquiſition was made of the Death of <hi>Henry Cooper,</hi> late of the Pariſh of S. <hi>Saviours Southwark,</hi> in the County of <hi>Surrey,</hi> Victualer, who hanged himſelf in his own Bed-chamber; but upon a Cloud of Witneſſes to prove his Lunacy, the Jury after an Adjournment, found that he was <hi>Non compos mentis,</hi> and not of a ſound minde and memory at the time, when he hanged himſelf; he was (as did appear by all that knew him) always a man of an outragious and unruly paſſion; and that he had formerly at ſundry times attempted to drown himſelf.</p>
+            <p>
+               <pb n="6" facs="tcp:49919:4"/>
+               <!-- PDF PAGE 38 -->
+               <label>Jan. 18.</label> Inquiſition was had of the Death of one <hi>Ralph —,</hi> Servant to <hi>Richard Lovel</hi> of <hi>Hatten-Garden,</hi> Painter; who received him into his ſervice a day or two before, in commiſeration towards him: For as much as at that time he was diſtitute of any imployment, and ready to beg, he fell off a Scaffold two ſtories and a half high, fixed to a Building of <hi>Pawlet St. Johns</hi> 
+               <abbr>Eſq</abbr> in <hi>Cheapſide,</hi> he ſtanding upon the end of a Board, not ſufficiently faſtned. The Jury found it to be a caſual Death, and he was returned by the name of <hi>Ralph Painter,</hi> for none, nay not his Maſter, knew his ſir-name.</p>
+            <p>
+               <label>Jan. 25.</label> Inquiſition was taken of the death of <hi>Roger Harriſon,</hi> late of S. <hi>Buttolph Biſhopſgate,</hi> Porter, who hanged himſelf at the top of the ſtairs of his houſe. This <hi>Har<g ref="char:EOLhyphen"/>riſon</hi> was a miſerable poor fellow: The oc<g ref="char:EOLhyphen"/>caſion of this violence uſed to himſelf, was, for that his Landlord had ejected him out of his houſe, for non-payment of his Rent, he forcibly makes a re-entry, ſtriking the Pad<g ref="char:EOLhyphen"/>lock
+<pb n="7" facs="tcp:49919:4"/>
+               <!-- PDF PAGE 38 -->off the door; and whileſt he had lock<g ref="char:EOLhyphen"/>ed himſelf in, his wife going to capitulate with the Landlord, to whom (by the way I noted) was due onely 1 <hi>l.</hi> 8 <hi>s.</hi> he took this lamentable way of ending his fears add troubles with his life together. His Burial was ordered to be in or near the Kings High<g ref="char:EOLhyphen"/>way.</p>
+            <p>
+               <label>Jan. 28.</label> A Jury was impannell'd to en<g ref="char:EOLhyphen"/>quire of the death of <hi>Francis Ware,</hi> and <hi>William Dewe,</hi> Carpenters, who were found to be accidentally and by misfortune killed by the fall of two houſes almoſt finiſh'd on <hi>Fiſh-ſtreet-hill</hi> in St. <hi>Magnes</hi> Pariſh. The one of theſe was making ſtairs in one houſe the other laying a floor in the houſe adjoyning. Theſe Buildings were Captain <hi>Nic. Cole<g ref="char:EOLhyphen"/>burns,</hi> a Vintner in <hi>London;</hi> which were undertook to be erected by contract by two Carpenters of ſome note. I ſhall not aſſume to give the Reader an exact account of the reaſon of this ſudden downfall, ſo as to impute the neglect to either Carpenters or Bricklayer; I will only relate what was
+<pb n="8" facs="tcp:49919:5"/>
+               <!-- PDF PAGE 39 -->deliver'd as to this part of the evidence. One <hi>Thomas Clark</hi> and his Wife were then in the Shop of one of the houſes, who were happily preſerved by the advantagious fall of ſome Timber over them: He the next day appear'd as a Witneſs, who upon oath taken, ſaid that the Vault over which he ſtood ſunck ſenſibly firſt under him: the Carpenters acknowledg'd that the Centers thereof were ſtruck the day before: yet this of all hands was not thought to be the immediate cauſe of their fall, but rather ſuppoſed the defect to be in the Party wall. The Bricklayer however did averr upon oath that the Wall was three brick thick in the Cellar, two bricks in the firſt Story, in the reſt a brick and a half; but on it was a great Stack of Chimneys, the weight whereof is verily conjectur'd to be too heavy for ſo ſlender ſupportance. But this I leave to the Surveyors, who herein are more judicious.</p>
+            <p>
+               <label>Jan. 31.</label> There was Inquiſition taken of the death of <hi>Elizabeth Cook,</hi> an Infant, aged two years and a quarter, the Daughter of
+<pb n="9" facs="tcp:49919:5"/>
+               <!-- PDF PAGE 39 -->
+               <hi>Thomas</hi> and <hi>Mary Cook</hi> of <hi>Cloth-Fair</hi> in the Pariſh of Great <hi>St. Bartholomews,</hi> who was found to be murder'd by her own Mother <hi>Mary Cook</hi> aforeſaid; ſhe the day before, be<g ref="char:EOLhyphen"/>ing Sunday, going up ſtairs, asked the In<g ref="char:EOLhyphen"/>fant lying in bed, whether ſhe was willing to have her Breakfaſt, the innocent Child merrily anſwered, yes; whereupon this cru<g ref="char:EOLhyphen"/>el Mother took her out of the bed, and carrying her toward the Chimney, moſt in<g ref="char:EOLhyphen"/>humanely cut the throat of her Child with a Penknife, and then ſtamped with her foot to let her Husband be a ſorrowful Witneſs of this horrid Tragedy: When ſhe was carried before a Magiſtrate, ſhe undaunted<g ref="char:EOLhyphen"/>ly confeſs'd the Fact, giving little reaſon for the ſame, more than that her Husband and Kindred were unkind to her. Though it was ſaid by others, and acknowledged by her ſelf, that ſhe loved this Child more than the reſt, yet there appeared not the leaſt lunacy or diſtraction in her reſponſals made ſince to divers that viſited her in <hi>Newgate.</hi> Nothing certainly but rage and exorbitant paſſion, which by continuance is tunr'd to
+<pb n="10" facs="tcp:49919:6"/>
+               <!-- PDF PAGE 40 -->malice, and this foſter'd by Sathans temp<g ref="char:EOLhyphen"/>tations, can be thought to have guided this bloody hand.</p>
+            <div type="sentences_of_the_Sessions">
+               <head>At the Seſsions and General Goal-delivery holden for <hi>London</hi> and <hi>Middleſex, Febr. 22.</hi>
+               </head>
+               <head type="sub">Theſe following received Sentence to die.</head>
+               <p>
+                  <hi>MAry Cook</hi> before mentioned, ſhe plea<g ref="char:EOLhyphen"/>ded little for her ſelf, but her Hus<g ref="char:EOLhyphen"/>band being preſent, endeavour'd by two Witneſſes to prove her mad; but it did not ſo appear, for being demanded whether ſhe did manage the buſineſs of the houſe as at other times, it was anſwered yes; beſides her Examination before the Juſtice of Peace, which was there read, gave a clear teſtimony of her methodical and rational reſponſals made to thoſe interroga<g ref="char:EOLhyphen"/>tories that were propoſed to her. After judgment her Execution was ſuſpended by the mercy of the Court till <hi>March 2d.</hi> and
+<pb n="11" facs="tcp:49919:6"/>
+                  <!-- PDF PAGE 40 -->then ſhe was hanged in <hi>Smithfield</hi> over a<g ref="char:EOLhyphen"/>gainſt <hi>Cloth-fair,</hi> where ſhe dwelt.</p>
+               <p>
+                  <hi>Suſan Emery</hi> for Murdering her Baſtard-Childe, in S. <hi>Martins Westminster,</hi> which Childe ſhe firſt choaked, and then hid in a Wall of her Lodging-Chamber, near the Chimney. She pleaded at her tryal, that the Childe was dead born, but before her Execution, ſhe confeſſed the fact, and ap<g ref="char:EOLhyphen"/>peared penitent till the time of her Execu<g ref="char:EOLhyphen"/>tion, which was at <hi>Tyburn,</hi> the Friday fol<g ref="char:EOLhyphen"/>lowing, <hi>Feb.</hi> 25.</p>
+               <p>
+                  <hi>Robert Hilliard,</hi> and <hi>Richard Wilde,</hi> who were Convict for ſeveral Robberies and Felonies. They were Foot-Pads, both of them dangerous and deſperate Fellows. The former at firſt refuſed to plead, but upon better conſideration he pleaded to his In<g ref="char:EOLhyphen"/>dictment, and found guilty; the other be<g ref="char:EOLhyphen"/>haved himſelf with much boldneſs, and pleaded guilty to one Indictment. They were hanged with <hi>Suſan Emery</hi> above-named.</p>
+               <p>There ſuffered alſo the ſame day <hi>Eliza<g ref="char:EOLhyphen"/>beth Miller,</hi> one convicted for Felony
+<pb n="12" facs="tcp:49919:7"/>
+                  <!-- PDF PAGE 41 -->ſometime before. She was a notorious old Theif, formerly tranſported, who after her eſcape, and return into <hi>England,</hi> ſhe fol<g ref="char:EOLhyphen"/>lowed her old vicious practiſes. She was wife to that <hi>Miller</hi> that was hanged in Chains, lately in <hi>Eſſex,</hi> for Robbery and Murder, by him and others, committed in <hi>Eppin Forest.</hi>
+               </p>
+               <p>Five received Sentence to be burnt in the hand, having the benefit of Clergy, Convict of Felony.</p>
+               <p>Two had the like Sentence for Man<g ref="char:EOLhyphen"/>ſlaughter.</p>
+               <p>Seven were Sentenced to be whipped, for as much as their Crimes were under Fe<g ref="char:EOLhyphen"/>lony.</p>
+            </div>
+            <div type="sentences_of_the_Assizes">
+               <head>At the Aſſizes holden for the County of <hi>Surrey.</hi>
+               </head>
+               <p>THree perſons were Convicted for Robbery in the High-way; but in as much as the Evidence of Two Butchers for the King, ſeemed ſomewhat to contra<g ref="char:EOLhyphen"/>dict
+<pb n="13" facs="tcp:49919:7"/>
+                  <!-- PDF PAGE 41 -->that on the behalf of the priſoners, by perſons of quality there preſent, the King was graciouſly pleaſed to ſuperſede the Judgment of Death; which otherwiſe was to be pronounced againſt them.</p>
+               <p>Six Convicted for Felony, begged Tranſ<g ref="char:EOLhyphen"/>portation.</p>
+               <p>One Woman burnt in the hand.</p>
+               <p>One awarded to be whipped for Petti<g ref="char:EOLhyphen"/>larceny.</p>
+               <p>There was a Woman indicted for a Witch, but nothing appeared ſufficient to convict her of Witchcraft, the Judge commanded the Ordinary to hear her re<g ref="char:EOLhyphen"/>peat the <hi>Lords Prayer;</hi> which accordingly he did, and reported, that ſhe concluded at the laſt Petition therein, <hi>Deliver us from evil,</hi> leaving out the Doxology, <hi>For thine is the Kingdom, &amp;c.</hi> But at laſt ſhe ſaid that alſo, together with part of the Creed, wherein ſhe omitted (as the Ordnary acquainted the Court) to ſay, <hi>He deſcended into Hell.</hi> But at laſt ſhe ac<g ref="char:EOLhyphen"/>knowledged the whole belief, and that
+<pb n="14" facs="tcp:49919:8"/>
+                  <!-- PDF PAGE 42 -->ſhe expected Salvation no otherwiſe, than by the Merits of <hi>Jeſus Christ.</hi>
+               </p>
+               <p>A young Fellow was there Indicted for a Rape, but found not guilty; but how<g ref="char:EOLhyphen"/>ever for his leudneſs practiſed on an inno<g ref="char:EOLhyphen"/>cent Girl, <hi>and that in the Church too:</hi> The Court ordered him to be ſent to the Houſe of Correction.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49919:8"/>
+            <!-- PDF PAGE 42 -->
+         </div>
+      </body>
+   </text>
+</TEI>
